@@ -1,0 +1,6 @@
+# The services of the project.
+#
+# Each service listed in 'services' must have a unique name.
+db:
+    type: postgresql:14
+    disk: 512
